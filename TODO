@@ -1,0 +1,17 @@
+Client:
+  - Cannot play videos without logging in. @done
+  - The cookie is not stored. hence the user has to login every single time. @done
+  - put toasts for login, register, like, dislike, Comment
+  - add redirect to homepage after login and register
+  - COMMENTS.jsx: 
+    - check for user is logged in. If not, ask user to login. @done
+    - Add Comment @done
+    - Comment should be updated promptly @done
+    - delete comment functionality add
+  - VIDEO.jsx: 
+    - Like and dislike fix @done
+    - views increase
+  - NAVBAR.jsx:
+    - add dropdown menu
+  - SIGNIN.jsx: @done
+    - register new people. create dispatch nad then execute. same as login. @done
